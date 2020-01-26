@@ -1,0 +1,36 @@
+<annotation>
+	<folder>less_selected</folder>
+	<filename>train655.jpg</filename>
+	<size>
+		<width>1000</width>
+		<height>695</height>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>185</ymin>
+			<xmax>298</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>staircase</name>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>229</ymin>
+			<xmax>300</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>staircase</name>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>253</ymin>
+			<xmax>298</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

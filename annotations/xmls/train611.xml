@@ -1,0 +1,36 @@
+<annotation>
+	<folder>less_selected</folder>
+	<filename>train611.jpg</filename>
+	<size>
+		<width>667</width>
+		<height>999</height>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>window</name>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>123</ymin>
+			<xmax>75</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>window</name>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>293</ymin>
+			<xmax>298</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>door</name>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>298</ymin>
+			<xmax>166</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>
